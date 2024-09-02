@@ -1,0 +1,12 @@
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\bin\Debug\Calculator Final Design- Keanan.exe.config
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\bin\Debug\Calculator Final Design- Keanan.exe
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\bin\Debug\Calculator Final Design- Keanan.pdb
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculator Final Design- Keanan.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculator_Final_Design__Keanan.Form1.resources
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculator_Final_Design__Keanan.Properties.Resources.resources
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculator Final Design- Keanan.csproj.GenerateResource.cache
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculator Final Design- Keanan.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculator Final Design- Keanan.exe
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculator Final Design- Keanan.pdb
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\bin\Debug\AltoControls.dll
+C:\Users\f\source\repos\Calculator Final Design- Keanan\Calculator Final Design- Keanan\obj\Debug\Calculat.628B9697.Up2Date
